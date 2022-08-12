@@ -21,10 +21,10 @@ a {
 
 @media (prefers-color-scheme: dark) {
   html {
-    color-scheme: dark;
+    /* color-scheme: dark; */
+    /* font-size: 62.5%; */
   }
   body {
-    color: white;
-    background: black;
+    /* font-size: 1.6rem; */
   }
 }
